@@ -13,3 +13,4 @@ The following algorithms/use-cases are implemented to date:
 8. Latent Dirichlet Allocation (LDA) and its applications - Probabilistic generative model (Part 2/2) [Video](https://www.youtube.com/watch?v=YYQmego-l1E)
 9. Word2Vec implementation in Keras
 10. Word2Vec implementation in PyTorch
+11. Spam Classifier using Naive Bayes algorithm
