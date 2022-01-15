@@ -14,3 +14,5 @@ The following algorithms/use-cases are implemented to date:
 9. Word2Vec implementation in Keras
 10. Word2Vec implementation in PyTorch
 11. Spam Classifier using Naive Bayes algorithm
+12. Word Sense Disambiguation - Knowledge based approaches - Lesk, Walker, Random Walk (Part 1/2) [Video](https://www.youtube.com/watch?v=O0s0UAEYQn0)
+13. Word Sense Disambiguation - ML based approaches - Decision List, Yarowsky's, HyperLex (Part 2/2) [Video](https://www.youtube.com/watch?v=Jr0uEViJtzU)
